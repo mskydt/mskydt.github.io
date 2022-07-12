@@ -1,8 +1,8 @@
 ---
-title: About
+title: Projects
 icon: fas fa-info-circle
-order: 5
+order: 4
 ---
 
-> My name is Mads
+> Projects
 {: .prompt-tip }
