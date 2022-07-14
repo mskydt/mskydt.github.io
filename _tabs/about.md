@@ -1,8 +1,0 @@
----
-title: About
-icon: fas fa-info-circle
-order: 5
----
-
-> My name is Mads
-{: .prompt-tip }
