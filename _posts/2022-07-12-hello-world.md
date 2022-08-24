@@ -1,8 +1,8 @@
 ---
 title: Hello World!
 date: 2022-07-12 22:30:00 +200
-categories: [Testing, Blogging]
-tags: [testing, jekyll, github]
+categories: [Blogging, Jekyll]
+tags: [jekyll, github, cms, blog, github]
 ---
 
 

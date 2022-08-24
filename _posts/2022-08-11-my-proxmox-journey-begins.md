@@ -1,11 +1,11 @@
 ---
-title: My PROXMOX journey begins
+title: My Proxmox journey begins
 date: 2022-08-11 09:00:00 +200
 categories: [Virtualization, Proxmox]
 tags: [virtualization, proxmox, opensource, hyperviser, homelab]
 ---
 
-# Introduction: Moving from ESXi to PROXMOX
+# Introduction: Moving from ESXi to Proxmox
 Some time ago, now, I set up ESXi on an Intel NUC in my homelab - with a little help from a friend ;-)
 I installed the first VM: pfSense. This is just an awesome firewall and I'll be sure to write about that in the future.
 
