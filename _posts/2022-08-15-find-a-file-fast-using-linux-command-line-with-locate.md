@@ -1,5 +1,5 @@
 ---
-title: Find a file fast using Linux command line
+title: Find a file fast using Linux command line with 'locate'
 date: 2022-08-15 15:00:00 +200
 categories: [Linux, Utilities]
 tags: [linux, cli]
