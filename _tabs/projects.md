@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: fas fa-info-circle
+icon: fas fa-project-diagram
 order: 4
 ---
 This page will contain a synopsis and related links to various projects.
