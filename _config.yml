@@ -23,7 +23,7 @@ timezone: Europe/Copenhagen
 
 title: Mads Skydt                          # the main title
 
-tagline: Tech enthusiast | Nerd | InfoSec | GTD | Stroke Survivor | Wallenberg Syndrome // Opinions are my own   # it will display as the sub-title
+tagline: Tech enthusiast | InfoSec | GTD | Stroke Survivor | Wallenberg Syndrome // Opinions are my own   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Mads Skydt blog.
