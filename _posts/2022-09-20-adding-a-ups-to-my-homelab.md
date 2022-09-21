@@ -2,7 +2,7 @@
 title: Adding a UPS to my homelab
 date: 2022-09-20 12:00:00 +200
 categories: [Homelab]
-tags: [proxmox, synology, raspberrypi opensource, homelab, nut]
+tags: [proxmox, synology, raspberrypi, opensource, homelab, nut]
 ---
 
 # Introduction
