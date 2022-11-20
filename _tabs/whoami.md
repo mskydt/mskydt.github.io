@@ -17,8 +17,8 @@ Visit [www.aci.dk](https://www.aci.dk) to learn more about our services.
 
 My blog on [www.madsskydt.dk](https://www.madsskydt.dk) is personal and I primarily write about my hobbies related to HomeLab and tech topics. Opinions are my own.  
 
-You can get in touch with me on [Twitter](https://twitter.com/madsskydt), [email](mailto:mrs@madsskydt.dk) or [LinkedIn](https://www.linkedin.com/in/madsskydt).
+You can get in touch with me on [Mastodon](https://infosec.exchange/@mads), [e-mail](mailto:mrs@madsskydt.dk) or [LinkedIn](https://www.linkedin.com/in/madsskydt).
 
-*Mads Skydt, July 14, 2022.*
+*Mads Skydt, November 20, 2022.*
 
 ![ACI offices in Copenhagen](/assets/aci1.jpg)
