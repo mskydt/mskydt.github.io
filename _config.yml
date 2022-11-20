@@ -23,7 +23,7 @@ timezone: Europe/Copenhagen
 
 title: Mads Skydt                          # the main title
 
-tagline: Tech enthusiast | InfoSec | GTD | Stroke Survivor | Wallenberg Syndrome // Opinions are my own   # it will display as the sub-title
+tagline: I am a tech enthusiast and nerd. I work with InfoSec and Quantitative Risk Management. I find GTD and stuff related to personal productivity, interesting. I am a stroke survivor with Wallenberg Syndrome. Opinions are my own.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Mads Skydt blog.
@@ -34,6 +34,10 @@ url: 'https://mskydt.github.io'
 github:
   username: mskydt             # change to your github username
 
+mastodon:
+- username: mads
+  instance: infosec.exchange
+
 twitter:
   username: madsskydt            # change to your twitter username
 
@@ -42,6 +46,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Mads Skydt
   email: mrs@madsskydt.dk             # change to your email address
+  mastodon: infosec.exchange/@mads
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/madsskydt      # change to your twitter homepage
